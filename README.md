@@ -1,3 +1,6 @@
+
+![Bulldozer](https://github.com/Sohaib18-12/bulldozer_sales_prediction/assets/114408167/7c8da532-bb96-4244-bf78-a56764bae42a)
+
 # Predicting the Sale Price of Bulldozers using Machine Learning 
 
 We're going to go through a machine learning project with the goal of predicting the sale price of bulldozers.
