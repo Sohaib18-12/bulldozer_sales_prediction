@@ -17,7 +17,7 @@ There are 3 datasets:
 2. **Valid.csv** - Historical bulldozer sales examples from January 1 2012 to April 30 2012 (close to 12,000 examples with the same attributes as **Train.csv**).
 3. **Test.csv** - Historical bulldozer sales examples from May 1 2012 to November 2012 (close to 12,000 examples but missing the `SalePrice` attribute, as this is what we'll be trying to predict).
 
-4. # Conclusion
-5. We've created a model that can predict the product future price according to several features, so we can use it in the future to get prices of products. We achieved **88% accuracy with validation data and over 96% with test data.**
-6.
-7. Also we can see that that the most important features are YearMade and ProductSize.
+# Conclusion
+We've created a model that can predict the product future price according to several features, so we can use it in the future to get prices of products. We achieved **88% accuracy with validation data and over 96% with test data.**
+
+Also we can see that that the most important features are YearMade and ProductSize.
